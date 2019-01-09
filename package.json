@@ -1,0 +1,21 @@
+{
+  "name": "ts-script",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node-fetch": "^2.1.4",
+    "@types/simplesmtp": "^0.3.2",
+    "bluebird": "^3.5.3",
+    "emailjs-imap-client": "^3.0.7",
+    "form-data": "^2.3.3",
+    "fs": "0.0.1-security",
+    "imap": "^0.8.19",
+    "imap-simple": "^4.2.0",
+    "mailparser": "^2.4.3",
+    "node-fetch": "^2.3.0",
+    "node-simsms-api": "^0.1.10",
+    "node-sms-activate-api": "^0.1.7",
+    "optimist": "^0.6.1",
+    "quoted-printable": "^1.0.1",
+    "simplesmtp": "^0.3.35"
+  }
+}
